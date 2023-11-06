@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: space-around; 
+    padding: 10px; 
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: blue; 
+    margin: 0 10px;
+  }
+
+  @media screen and (max-width: 767px) {
+    nav {
+      justify-content: center; 
+    }
+  
+    nav a {
+      margin: 0 5px; 
+    }
+  }
+  
+  
+  @media screen and (min-width: 768px) {
+    nav {
+      justify-content: space-around; 
+    }
+  
+    nav a {
+      margin: 0 10px; 
+    }
+  }
+ 
+  
+  

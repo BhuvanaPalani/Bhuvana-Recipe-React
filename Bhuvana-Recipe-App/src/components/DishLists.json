@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Pancake",
+      "image": "pancake.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Woknudlar",
+      "image": "woknudlar.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Lasagna",
+      "image": "lasagna.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Briyani",
+      "image": "briyani.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Egg Fried Rice",
+      "image": "egg-fried-rice.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tandoori",
+      "image": "tandoori.jpg"
+    }
+  ]
+  

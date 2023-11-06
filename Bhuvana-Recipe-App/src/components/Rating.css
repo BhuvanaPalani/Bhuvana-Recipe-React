@@ -1,0 +1,20 @@
+
+.rating-container {
+    display: inline-block;
+    color: blueviolet;
+    font-size: 24px;
+  }
+  
+  .rating-star {
+    margin-right: 5px;
+  }
+  
+
+  .rating-empty-star:before {
+    content: "\2606"; 
+  }
+  
+  .rating-filled-star:before {
+    content: "\2605"; 
+  }
+  

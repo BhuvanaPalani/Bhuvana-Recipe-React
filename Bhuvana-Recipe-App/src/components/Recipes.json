@@ -1,0 +1,150 @@
+{
+  "1": {
+    "name": "Pancake",
+    "timeTaken": "20 minutes",
+    "ingredients": [
+      "1 ½ cups all-purpose flour",
+      "3 ½ teaspoons baking powder",
+      "1 tablespoon white sugar",
+      "¼ teaspoon salt, or more to taste",
+      "1 ¼ cups milk",
+      "3 tablespoons butter, melted",
+      "1 egg"
+    ],
+    "steps": [
+      "Sift the dry ingredients together.",
+      "Make a well, then add the wet ingredients. Stir to combine.",
+      "Check whether the pan is moderate heat. Scoop the batter onto a hot griddle or pan.",
+      "Cook for two to three minutes, then flip. Cook the other side for three minutes until it gets brown.",
+      "Continue cooking until brown on both sides. Serve it with jam or honey."
+    ],
+    "video": "https://www.youtube.com/embed/3kfGNNnld-I?si=bAygWBI6igqsCHYu"
+  },
+  "2": {
+    "name": "Woknudlar",
+    "timeTaken": "20 minutes",
+    "ingredients": [
+      "600 g chicken breast fillets",
+      "1 msk kinesisk soja",
+      "2 tbsp oil",
+      "1 tsk salt",
+      "2 feed peppar",
+      "1 msk curry",
+      "400 g stir-fried vegetables",
+      "1 clove of garlic",
+      "1 packet of egg noodles",
+      "2 tablespoons of sweet chili sauce",
+      "1 tablespoon sesame seeds"
+    ],
+    "steps": [
+      "Boil the noodles in hot water for ten minutes. Shred the chicken and mix with soy. Fry in oil with salt, pepper and curry.",
+      "Fry the wok vegetables and press over the garlic.",
+      "Cook the noodles and drain.",
+      "Mix all ingredients and sprinkle with sesame seeds.",
+      "Serve with sweet chili sauce."
+    ],
+    "video": "https://www.youtube.com/embed/-QB81R1R8ic?si=54QL7_UzrY7xTQD9"
+  },
+  "3": {
+    "name": "Lasagna",
+    "timeTaken": "50 minutes",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "2 chicken thigh fillets, diced",
+      "1 onion, finely chopped",
+      "1 garlic clove, finely chopped",
+      "½ tsp dried oregano",
+      "large pinch chili flakes",
+      "½ tbsp tomato purée",
+      "400g tin chopped tomatoes",
+      "4 fresh lasagne sheets"
+    ],
+    "steps": [
+      "Preheat the oven to gas 6, 200°C, fan 180°C. Heat the oil in a frying pan.",
+      "Add the chicken and brown. Set aside in a bowl.",
+      "Add the onion and garlic to the pan; cook for 5 mins, or until softened.",
+      "Stir in the oregano, chili, tomato purée, and tomatoes, then return the chicken with any juices; season. Bring to the boil, then simmer for 5 mins.",
+      "For the sauce, melt the butter in a pan, then stir in the flour; cook for 1 min.",
+      "Gradually add the milk. Bring to the boil, then simmer, stirring, for 5 mins. Remove from the heat. Stir in 60g cheese and the mustard; season.",
+      "Spoon half the chicken mixture into a small baking dish. Top with 2 lasagne sheets, then the remaining chicken.",
+      "Top with the last 2 lasagne sheets. Pour over the sauce and scatter over the remaining cheese. Bake for 20 mins, or until golden."
+    ],
+    "video": "https://www.youtube.com/embed/dZyRBmNK5Hc?si=0H6mrJ97AcEoVFP-"
+  },
+  "4": {
+    "name": "Briyani",
+    "timeTaken": "45 minutes",
+    "ingredients": [
+      "2 tbsp sunflower oil",
+      "1 large onion, chopped",
+      "4 chicken breasts",
+      "1 lemon, juice only",
+      "2 tsp garam masala",
+      "1 tsp chili powder",
+      "2g (1 tsp) salt",
+      "300g (10oz) basmati rice",
+      "1 garlic clove, crushed",
+      "2.5cm piece fresh ginger, grated",
+      "850ml (1 1/2 pints) hot chicken stock",
+      "3 tbsp chopped fresh coriander"
+    ],
+    "steps": [
+      "Heat the oil in a large saucepan over a low heat. Add the onion, cover and cook for 10 minutes until softened.",
+      "Cut the chicken into bite-size pieces, tip into a bowl, and add the lemon juice, garam masala, chili powder, and salt. Stir well to coat.",
+      "Rinse the rice several times in cold water, until the water runs clear.",
+      "Add the garlic and ginger to the onion and cook for 2 minutes, then add the chicken pieces and cook for a further 2 minutes, stirring constantly.",
+      "Add the rice and hot stock to the pan, stir well then bring to the boil. Cover with a tight-fitting lid, reduce the heat slightly and cook for 5 minutes.",
+      "Turn off the heat and leave the pan for 10 minutes to allow the rice to finish cooking in the steam.",
+      "Do not remove the lid. Stir through the coriander and serve immediately."
+    ],
+    "video": "https://www.youtube.com/embed/PVO-4Jnjpfk?si=hk2UvfmCuOpSORsi"
+  },
+  "5": {
+    "name": "Fried Rice",
+    "timeTaken": "20 minutes",
+    "ingredients": [
+      "1 Tbsp rice bran or vegetable oil",
+      "2 garlic cloves, minced",
+      "2 cups (400g) cooked rice",
+      "3 eggs, beaten",
+      "2 Tbsp soy sauce",
+      "1 Tbsp oyster sauce",
+      "1 tsp sesame oil",
+      "½ cup frozen vegetables of your choice",
+      "15g butter",
+      "Finely sliced spring onion, if desired"
+    ],
+    "steps": [
+      "Bring a wok or large pan to a high heat with the oil.",
+      "Once heated, add the rice and garlic, then stir fry for 4-5 minutes.",
+      "Push the rice to the side of the pan, and pour the beaten egg into the empty side. Stir to scramble, then stir through the rice.",
+      "Pour the soy sauce, oyster sauce, and sesame oil into the rice.",
+      "Stir to combine, then fold through the frozen vegetables and cook for 3-4 minutes or until cooked through.",
+      "Add the butter and stir until melted, then serve immediately."
+    ],
+    "video": "https://www.youtube.com/embed/Skgp53_PYKo?si=33zlc349_YMQu1Tv"
+  },
+   "6": {
+    "name": "Tandoori",
+    "timeTaken": "45 minutes",
+    "ingredients": [
+      "300ml Greek yogurt",
+      "large piece ginger, grated",
+      "4 garlic cloves, crushed",
+      "¾ tsp garam masala",
+      "¾ tsp ground cumin",
+      "½ tsp chilli powder",
+      "¼ tsp turmeric"
+
+    ],
+    "steps": [
+      "Mix the lemon juice with the paprika and red onions in a large shallow dish.", 
+      "Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.",
+      "Mix all of the marinade ingredients together and pour over the chicken.", 
+      "Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.",
+      "Heat the grill. Lift the chicken pieces onto a rack over a baking tray.", 
+      "Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
+    ],
+    "video": "https://www.youtube.com/embed/8KTtVA8luJU?si=GnLCSnN25kAlQZ3h"
+  }
+}

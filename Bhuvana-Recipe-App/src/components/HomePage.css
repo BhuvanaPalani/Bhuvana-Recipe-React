@@ -1,0 +1,41 @@
+h1 {
+    font-size: 2.5rem; 
+    margin-top: 0;
+    color: blueviolet;
+    font-family: cursive;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1.25rem; 
+    line-height: 1.5; 
+    margin: 20px 0;
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+  }
+
+ 
+  body {
+      background-image: url('./image-1.jpg'); 
+      background-size: cover; 
+      background-repeat: no-repeat; 
+    }
+
+    @media (max-width: 767px) {
+      h1 {
+          font-size: 2rem; 
+      }
+      p {
+          font-size: 1rem; 
+      }
+  }
+  
+  
+  @media (min-width: 768px) {
+      body {
+          background-attachment: fixed; 
+      }
+  }
+  
+  
