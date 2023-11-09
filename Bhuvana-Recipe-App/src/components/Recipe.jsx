@@ -1,13 +1,17 @@
 import PropTypes from "prop-types";
 import "./Recipe.css";
 import recipes from "./Recipes.json";
+// Functional component for displaying a recipe
 function Recipe({ dishId }) {
+  // Retrieve the selected dish from the recipes data based on dishId
   const selectedDish = recipes[dishId];
 
+  // If the selected dish is not found, return null (no recipe to display)
   if (!selectedDish) {
     return null;
   }
 
+  // JSX for rendering the recipe details
   return (
     <div className="recipe-container">
       <h2 className="recipe-title">Recipe for {selectedDish.name}</h2>
@@ -35,8 +39,10 @@ function Recipe({ dishId }) {
   );
 }
 
+// PropTypes for type-checking the dishId prop
 Recipe.propTypes = {
   dishId: PropTypes.number.isRequired,
 };
 
+// Exporting the Recipe component as the default export
 export default Recipe;

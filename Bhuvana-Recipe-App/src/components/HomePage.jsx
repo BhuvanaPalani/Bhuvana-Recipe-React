@@ -1,5 +1,7 @@
 import "./HomePage.css";
+// Functional component for the home page
 function HomePage() {
+  // JSX for rendering the home page content
   return (
     <div className="background-image">
       <h1>Bhuvana Recipe</h1>
@@ -14,4 +16,5 @@ function HomePage() {
   );
 }
 
+// Exporting the HomePage component as the default export
 export default HomePage;

@@ -4,7 +4,9 @@ import RegisterPage from "./components/RegisterPage";
 import "./app.css";
 import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
 
+// Functional component for the main App
 function App() {
+  // JSX for rendering the main app structure
   return (
     <BrowserRouter>
       <nav>
@@ -21,4 +23,5 @@ function App() {
   );
 }
 
+// Exporting the App component as the default export
 export default App;
